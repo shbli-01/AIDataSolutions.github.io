@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AIData Solutions builds AI-optimized smart data centers for MoE models, leveraging quantization for efficiency and scalability.">
+    <meta name="keywords" content="smart data centers, AI data centers, MoE models, quantization, AI optimization">
+    <title>AIData Solutions - Smart Data Centers for AI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">AIData Solutions</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="hamburger">☰</div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Transform Your Data Center with AI-Powered Efficiency</h1>
+        <p>Build smart data centers optimized for Mixture of Experts (MoE) models with cutting-edge quantization techniques.</p>
+        <a href="services.html" class="cta-button">Explore Our Services</a>
+    </section>
+
+    <section class="services-preview">
+        <h2>Our Expertise</h2>
+        <div class="services-grid">
+            <div class="service-card">
+                <h3>AI-Optimized Infrastructure</h3>
+                <p>High-density GPU clusters and advanced cooling for MoE workloads.</p>
+            </div>
+            <div class="service-card">
+                <h3>Smart Automation</h3>
+                <p>AI-driven systems for resource optimization and predictive maintenance.</p>
+            </div>
+            <div class="service-card">
+                <h3>Quantization Solutions</h3>
+                <p>Reduce costs and speed up inference with PTQ and QAT techniques.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact-form">
+        <h2>Get in Touch</h2>
+        <form action="https://formspree.io/f/your-form-id" method="POST">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 AIData Solutions. All rights reserved.</p>
+        <p><8300; <a href="mailto:contact@aidatasolutions.com">contact@aidatasolutions.com</a> | <a href="https://github.com/AIDataSolutions">GitHub</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
